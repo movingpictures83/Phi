@@ -1,0 +1,2 @@
+Prefix plugins/Phi/example/
+Plugin Phi inputfile abund.csv outputfile abund.phi.csv
