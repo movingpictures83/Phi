@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV (file of abundances)
 # Output: CSV (proportionalities)
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin that runs the proportionality algorithm of Lovell et al, 2015,
 which was proposed as an alternative to correlations for relative data.
